@@ -1,3 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include"biblio.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
 int saisirId() {
     int id, valid;
     while (1) {
